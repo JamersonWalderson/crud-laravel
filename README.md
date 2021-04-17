@@ -1,4 +1,4 @@
-# crud-php8
+# crud-laravel
 
 Este projeto é o mesmo do repositório crud-php8
 https://github.com/JamersonWalderson/crud-php8
